@@ -1,6 +1,6 @@
 # Titanic Survival Predictor
 
-A machine learning project that predicts the chances of survival for passengers on the Titanic using logistic regression. The model analyzes features such as age, sex, passenger class, and other attributes to classify whether a passenger would survive.
+A machine learning project that predicts the chances of survival for passengers on the Titanic using logistic regression. The model analyses features such as age, sex, passenger class, and other attributes to classify whether a passenger would survive.
 
 ---
 
